@@ -2,20 +2,15 @@ clear
 mkdir ToolHacking
 clear 
 echo -e '\033[31;38;1m 
-███╗░░░███╗░█████╗░░██████╗████████╗███████╗██████╗░░░░░░████████╗░██████╗░ 
-████╗░████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗░░░░░╚══██╔══╝██╔════╝░ 
-██╔████╔██║███████║╚█████╗░░░░██║░░░█████╗░░██████╔╝░░░░░░░░██║░░░██║░░██╗░ 
-██║╚██╔╝██║██╔══██║░╚═══██╗░░░██║░░░██╔══╝░░██╔══██╗░░░░░░░░██║░░░██║░░╚██╗ 
-██║░╚═╝░██║██║░░██║██████╔╝░░░██║░░░███████╗██║░░██║░░░░░░░░██║░░░╚██████╔╝ 
-╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝░░░░░░░░╚═╝░░░░╚═════╝░ 
-░░███╗░░░░░░░██╗██╗ 
-░████║░░░░░░██╔╝██║ 
-██╔██║░░░░░██╔╝░██║ 
-╚═╝██║░░░░░███████║ 
-███████╗██╗╚════██║ 
-╚══════╝╚═╝░░░░░╚═╝ 
+███╗░░░███╗░█████╗░░██████╗████████╗███████╗██████╗░ 
+████╗░████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗ 
+██╔████╔██║███████║╚█████╗░░░░██║░░░█████╗░░██████╔╝ 
+██║╚██╔╝██║██╔══██║░╚═══██╗░░░██║░░░██╔══╝░░██╔══██╗ 
+██║░╚═╝░██║██║░░██║██████╔╝░░░██║░░░███████╗██║░░██║ 
+╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝ 
+\033[6;36m         Version 1.5
 
- \033[33;3m[</>]\033[Om By Master TG By DONE Join => Group:@ShareToolBuffViewTikTok
+ \033[33;5m[</>]\033[Om By Master TG By DONE Join => Group:@ShareToolBuffViewTikTok
  
   \033[33;4mVersion:\033[0m 1.4          \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m salih.py
 
@@ -24,7 +19,7 @@ echo -e '\033[31;38;1m
 \e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
 \e[37m[7]\e[36m How to use ?	          \e[37m[8]\e[36m Uninstall Downloaded Programs 		
 \e[37m[9]\e[36m TIKTOK-BOT \e[31m Update           \e[36m \e[37m[10]\e[36m SPAM SMS V1 \e[31m Update 
-\e[37m[11]\e[36m SPAM SMS V2 \033[1;33m Update New
+\e[37m[11]\e[36m SPAM SMS V2 \033[2;32m Update New 
 '
 
 
@@ -139,7 +134,7 @@ elif [[ $islem == 10|| $islem == 10 ]]; then
 clear
 echo -e "\033[47;3;35m Installation May Take a Long Time Wait\033[0m"
 sleep 3
-https://github.com/mastertgtool/SPAM-SMS-V1.git
+git clone https://github.com/mastertgtool/SPAM-SMS-V1.git
 cd SPAM-SMS-V1
 bash set.sh
 
@@ -148,7 +143,7 @@ elif [[ $islem == 11|| $islem == 11 ]]; then
 clear
 echo -e "\033[47;3;35m Installation May Take a Long Time Wait\033[0m"
 sleep 3
-https://github.com/mastertgtool/SPAM-SMS-V2.git
+git clone https://github.com/mastertgtool/SPAM-SMS-V2.git
 cd SPAM-SMS-V2
 clear
 python SPAM-SMS-V2.py
