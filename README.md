@@ -30,7 +30,7 @@ works on any of the following operating systems:
 pkg install git
 ```
 ```sh
-git clone https://github.com/alexander695/HackingTga
+git clone https://github.com/mastertgtool/HACKINGTGA.git
 ```
 ```sh
 cd HACKINGTGA
