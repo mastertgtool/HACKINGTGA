@@ -3,14 +3,6 @@ Tools to help you with ethical hacking, Social media hack, phone info, Gmail att
 
 <img width="500" src="https://i.ibb.co/3CNQWNn/Screenshot-2021-06-02-23-16-09.png"/>
 
-# Updating V1.3
-
-<img width="500" src="https://media.discordapp.net/attachments/807970255908896779/849969173194473482/Screenshot_2021-06-03_14-11-56.png"/>
-
-• Fix error removing downloaded programs
-
-• How to use Sectg ion added (Turkish only)
-
 # Updating V1.5
 
 •Gmail bomber install fixed
@@ -19,8 +11,6 @@ Tools to help you with ethical hacking, Social media hack, phone info, Gmail att
 
 
 • Powerful DDOS attack tool added
-
-
 
 
 # Operating System Requirements
@@ -33,10 +23,18 @@ works on any of the following operating systems:
 • Unix
 
 # How to Install
-* Open the terminal and type `< pkg install git>`
-* Then`<git clone https://github.com/alexander695/HackingTga>`
-* `<cd HackingTga>`
-* `<bash tga.sh>`
+```sh
+pkg install git
+```
+```sh
+git clone https://github.com/alexander695/HackingTga
+```
+```sh
+cd HACKINGTGA
+```
+```sh
+bash tga.sh
+```
  
 # Tools I Use
 <img width="500" src="https://www.stevemar.net/images/generic/bash.png"/>
