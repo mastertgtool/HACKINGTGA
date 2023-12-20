@@ -1,7 +1,10 @@
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
-<img width="500" src="https://i.ibb.co/3CNQWNn/Screenshot-2021-06-02-23-16-09.png"/>
+<div align="center">
+  <a href="https://github.com/mastertgtool/HACKINGTGA.git">
+    <img src="./Master.png" alt="Logo" >
+  </a>
 
 # Updating V1.5
 
